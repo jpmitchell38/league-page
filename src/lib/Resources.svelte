@@ -12,7 +12,7 @@ import { dynasty } from './utils/helper';
             premium: true,
             separator: true,
         },
-        */
+        
         {
             name: "The Fantasy Footballers",
             url: "https://www.thefantasyfootballers.com/",
@@ -90,7 +90,7 @@ import { dynasty } from './utils/helper';
             icon: "assessment",
             premium: false,
             separator: true,
-        },
+        },*/
         {
             name: "FantasyCalc Trade Calculator",
             url: "https://www.fantasycalc.com/trade-calculator",
