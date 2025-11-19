@@ -4,7 +4,6 @@ import { dynasty } from './utils/helper';
 
     const today = new Date();
     const resources = [
-        /*
         {
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
@@ -91,7 +90,7 @@ import { dynasty } from './utils/helper';
             premium: false,
             separator: true,
         },
-        { */
+        { 
             name: "FantasyCalc Trade Calculator",
             url: "https://www.fantasycalc.com/trade-calculator",
             icon: "calculate",
