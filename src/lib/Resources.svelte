@@ -91,7 +91,7 @@ import { dynasty } from './utils/helper';
             premium: false,
             separator: true,
         },
-        {*/
+        { */
             name: "FantasyCalc Trade Calculator",
             url: "https://www.fantasycalc.com/trade-calculator",
             icon: "calculate",
