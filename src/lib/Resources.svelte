@@ -4,6 +4,7 @@ import { dynasty } from './utils/helper';
 
     const today = new Date();
     const resources = [
+        /*
         {
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
@@ -11,6 +12,7 @@ import { dynasty } from './utils/helper';
             premium: true,
             separator: true,
         },
+        */
         {
             name: "The Fantasy Footballers",
             url: "https://www.thefantasyfootballers.com/",
