@@ -28,7 +28,6 @@ import { dynasty } from './utils/helper';
             separator: true,
             dynastyOnly: true,
         },
-*/
         {
             name: "DynastyProcess Trade Calculator",
             url: "https://apps.dynastyprocess.com/calculator/",
@@ -92,7 +91,7 @@ import { dynasty } from './utils/helper';
             premium: false,
             separator: true,
         },
-        {
+        {*/
             name: "FantasyCalc Trade Calculator",
             url: "https://www.fantasycalc.com/trade-calculator",
             icon: "calculate",
