@@ -7,7 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
- <p>This is Dynasty </p>
+ <p>This is our dynasty page, no I did not make it, it was just a github link I had to clone and change a few things. So some links I didnt add and dont apply to us (like the constitution under league info). </p>
+ <p>This website should be live all the time, so you can visit it at any point. </p>
 `;
 
 /*   STEP 3   */
