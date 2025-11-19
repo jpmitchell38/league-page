@@ -28,6 +28,7 @@ import { dynasty } from './utils/helper';
             separator: true,
             dynastyOnly: true,
         },
+*/
         {
             name: "DynastyProcess Trade Calculator",
             url: "https://apps.dynastyprocess.com/calculator/",
@@ -90,7 +91,7 @@ import { dynasty } from './utils/helper';
             icon: "assessment",
             premium: false,
             separator: true,
-        },*/
+        },
         {
             name: "FantasyCalc Trade Calculator",
             url: "https://www.fantasycalc.com/trade-calculator",
@@ -185,5 +186,4 @@ import { dynasty } from './utils/helper';
             {/if}
         {/each}
     </List>
-    <p class="disclaimer">*Some or all content is behind a paywall</p>
 </div>
